@@ -1,4 +1,4 @@
-package Ex_04_Operators;
+package Ex_04_Operators_Part_4;
 
 public class Operators_Assignment {
     public static void main(String[] args) {

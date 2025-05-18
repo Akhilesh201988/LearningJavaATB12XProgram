@@ -1,6 +1,4 @@
-package Ex_04_Operators;
-
-import java.sql.SQLOutput;
+package Ex_04_Operators_Part_4;
 
 public class Logical_Operators {
 //    1. **Logical Operators ->  (Digital Electronics)**

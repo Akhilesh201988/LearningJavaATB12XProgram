@@ -1,4 +1,4 @@
-package Ex_01_Java_basics;
+package Ex_01_Java_basics_Part_1;
 
 public class Testcomment {
     public static void main(String[] args) {

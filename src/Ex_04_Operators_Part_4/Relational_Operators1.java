@@ -1,4 +1,4 @@
-package Ex_04_Operators;
+package Ex_04_Operators_Part_4;
 
 public class Relational_Operators1 {
     public static void main(String[] args) {
